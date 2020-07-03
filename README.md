@@ -1,4 +1,4 @@
-# AirQuaity
+# AirQuality
 
 Air quality instruments e-shop and analytics service. 
 
